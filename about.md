@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-IT推進委員会　r488it研究所 所長 Taku
+r488it Lab
 
 ### More Information
 
-ITをパフォーマンスとして表現するために
-17live配信しています。
+Coming soon...
 
 
 ### Contact me
