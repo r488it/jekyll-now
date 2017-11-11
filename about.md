@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+IT推進委員会　r488it研究所　所長
 
 ### More Information
 
