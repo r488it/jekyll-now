@@ -1,6 +1,6 @@
 ---
 layout: post
-title: r488it研究所へようこそ！！
+title: Welcome r488it Lab！！
 ---
 
-編集中
+17コメントビュアー近々ここで公開します。
