@@ -7,5 +7,9 @@ title: 17リアルタイム翻訳Bot
 
 ![_config.yml]({{ site.baseurl }}/images/sample.PNG)
 
+### How to make
+
+Coming soon…
+
 
 
