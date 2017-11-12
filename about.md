@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-『r488it Lab.』は　　　　
-「テクノロジー」「教育」「エンターテインメント」　　　　
+『r488it Lab.』は　　
+「テクノロジー」「教育」「エンターテインメント」　　
 をより多くの層に体験して頂く非営利団体です。　　　　
 
 ### More Information
