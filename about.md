@@ -15,7 +15,7 @@ r488it Lab
 ITをより多くの層に親しみ易い形で触れ合って頂き、  
 ITリテラシー育成の一助と成れればと願っております。  
 
-### r488it　member
+### r488it Member
 
 Coming soon...
 
