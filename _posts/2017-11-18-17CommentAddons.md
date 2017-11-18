@@ -10,8 +10,7 @@ title: 17Chromeアドオン
 	https://www.google.co.jp/chrome/browser/desktop/index.html   
 
 #step2:アドオンをダウンロード   
-	1.https://github.com/r488it/17r488it/archive/master.zip   
-	  上のファイルをダウンロードして、解凍する　　　
+	1.https://github.com/r488it/17r488it/archive/master.zip　ファイルをダウンロードして、解凍する　　　
 	2.好きなフォルダに格納する   
 	※インストール後移動すると、アドオンが無効になります   
 
