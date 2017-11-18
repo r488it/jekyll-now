@@ -18,6 +18,6 @@ title: 17Chromeアドオン
 #step3:アドオンをインストール   
 	1."chrome://extensions/"をURL欄に入力   
 	2.デベロッパーモードのチェックを入れる   
-	3.ダウンロードしたフォルダをドラッグ＆ドロップ   
+	3.ダウンロードしたフォルダ内の”17 Speach”フォルダをここにドラッグ＆ドロップ   
 
 ![how to install]({{ site.baseurl }}/images/17CommentAddons.png)
