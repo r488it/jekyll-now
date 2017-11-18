@@ -6,17 +6,17 @@ title: 17Chromeアドオン
 
 ### How to use
 
-[step1:Chromeをダウンロード]
-	https://www.google.co.jp/chrome/browser/desktop/index.html
+#step1:Chromeをダウンロード
+	https://www.google.co.jp/chrome/browser/desktop/index.html   
 
-[step2:アドオンをダウンロード]
-	1.XXXX
-	2.好きなフォルダに格納する
-	※インストール後移動すると、アドオンが無効になります
+#step2:アドオンをダウンロード
+	1.XXXX   
+	2.好きなフォルダに格納する   
+	※インストール後移動すると、アドオンが無効になります   
 
-[step3:アドオンをインストール]
-	1."chrome://extensions/"をURL欄に入力
-	2.デベロッパーモードのチェックを入れる
-	3.ダウンロードしたフォルダをドラッグ＆ドロップ
+#step3:アドオンをインストール
+	1."chrome://extensions/"をURL欄に入力   
+	2.デベロッパーモードのチェックを入れる   
+	3.ダウンロードしたフォルダをドラッグ＆ドロップ   
 
-![_config.yml]({{ site.baseurl }}/images/17CommentAddons.PNG)
+![_config.yml]({{ site.baseurl }}/images/17CommentAddons.png)
