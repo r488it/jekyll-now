@@ -19,4 +19,4 @@ title: 17Chromeアドオン
 	2.デベロッパーモードのチェックを入れる   
 	3.ダウンロードしたフォルダをドラッグ＆ドロップ   
 
-![_config.yml]({{ site.baseurl }}/images/17CommentAddons.png)
+![how to install]({{ site.baseurl }}/images/17CommentAddons.png)
