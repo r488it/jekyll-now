@@ -4,10 +4,17 @@ title: About
 permalink: /about/
 ---
 
-### More Information
+## Team Information
+r488itはAI、ロボット、IoTなどを駆使し、さまざまな活動をするチームです。
 
-A place to include any other types of information that you'd like to include about yourself.
+## Menber Information
+### 代表
 
-### Contact me
+![taku_sid](/images/taku_100x100.png)　　**taku_sid**
 
-[email@domain.com](mailto:email@domain.com)
+
+### メンバ
+![うすい](/images/usui_100x100.png)　　**うすい**
+
+
+![fujihira](/images/fujihira_100x100.png)　　**fujihira**
