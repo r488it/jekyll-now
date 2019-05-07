@@ -18,3 +18,5 @@ r488itはAI、ロボット、IoTなどを駆使し、さまざまな活動をす
 
 
 ![fujihira](/images/fujihira_100x100.png)　　**fujihira**
+
+## Sponsor Information
